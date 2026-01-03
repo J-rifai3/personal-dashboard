@@ -56,3 +56,10 @@ navigator.geolocation.getCurrentPosition(position => {
         })
         .catch(err => console.error(err))
 });
+
+
+/* stretch goals:
+Add a few more APIs (sports, quotes, anime, etc.)
+Add a few more features (Todos, today's focus, etc.)
+Add a few quality of life improvements (image caching, loading icons, etc.)
+*/
